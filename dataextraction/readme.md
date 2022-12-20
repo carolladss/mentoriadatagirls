@@ -1,0 +1,1 @@
+Esse repositório serve para guardar atividades de aprendizado em relação a Data Extraction.
